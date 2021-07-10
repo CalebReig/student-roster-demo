@@ -1,0 +1,7 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\reiga\source\repos\ScriptingProgramming2\ScriptingProgramming2\roster.cpp(10,27): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\reiga\source\repos\ScriptingProgramming2\ScriptingProgramming2\roster.cpp(100,22): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  ScriptingProgramming2.vcxproj -> C:\Users\reiga\source\repos\ScriptingProgramming2\Debug\ScriptingProgramming2.exe
